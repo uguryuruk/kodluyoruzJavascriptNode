@@ -19,7 +19,6 @@ const posts = [
     const promisePost = new Promise((resolve, reject) => {
       if(!newPost.name)
         reject('Hata!');
-
      setTimeout(() => {
       posts.push(newPost);
       resolve(posts);
@@ -31,7 +30,6 @@ const posts = [
   
   async function showPosts() {
     try {
-
       await addPost({ name: "Post 4", content: "Lorem 4" });
       await addPost({ name: "Post 5", content: "Lorem 5" });
       // await addPost({ name: "", content: "" });
