@@ -1,5 +1,6 @@
 # SOLID ELECTRON ANGULAR PRACTICUM FIRST CHALLENGE
 
+![app photo](https://github.com/uguryuruk/kodluyoruzJavascriptNode/blob/main/solidElectronAngular/AppPhoto.jpg)
 ## İŞ KURALLARI VE SENARYO
 * Word belgesinde belirtilmiştir.
 
@@ -15,3 +16,4 @@
 * Bu aşamada stok kontrolü yapıldığı için, seçilen ürünler sabitlenmektedir.
 * İptal edilirse yine seçimler değiştirilebilmektedir.
 * Siparişi tamamla butonuna tıklayınca pişirme, içecek, patates ve servis işlemleri dokümandaki sırayla başlatılmaktadır.
+
